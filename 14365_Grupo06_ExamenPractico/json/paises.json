@@ -1,0 +1,546 @@
+{
+  "China": {
+    "nombre": "China",
+    "plato_tipico": ["Arroz frito", "Pato laqueado", "Dim sum", "Tofu"],
+    "moneda": "Yuan chino",
+    "bandera": "../img/China.png",
+    "provincias": {
+      "Beijing": {
+        "nombre": "Beijing",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": " eijing",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Chaoyang",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Haidian",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Shanghai": {
+        "nombre": "Shanghai",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Huangpu",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Xuhui",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Changning",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Wuhan": {
+        "nombre": "Wuhan",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Jiang'an",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Jianghan",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Qiaokou",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Corea del Sur": {
+    "nombre": "Corea del Sur",
+    "plato_tipico": ["Kimchi", "Bibimbap", "Tteokbokki", "Bulgogi"],
+    "moneda": "Won surcoreano",
+    "bandera": "../img/Corea_del_Sur.png",
+    "provincias": {
+      "Seúl": {
+        "nombre": "Seúl",
+        "numCiudades": 25,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Seúl",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Gangnam",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Mapo",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Busan": {
+        "nombre": "Busan",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Haeundae",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Dongnae",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Suyeong",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Daegu": {
+        "nombre": "Daegu",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Jung-gu",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Dalseo",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Dong-gu",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "India":{
+    "nombre": "India",
+    "plato_tipico": ["Curry", "Samosa", "Tandoori", "Naan"],
+    "moneda": "Rupia india",
+    "bandera": "../img/India.webp",
+    "provincias": {
+      "Delhi": {
+        "nombre": "Delhi",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Delhi",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "New Delhi",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "South Delhi",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Bombay": {
+        "nombre": "Bombay",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Mumbai",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Thane",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Navi Mumbai",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Bangalore": {
+        "nombre": "Bangalore",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Bangalore",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Yelahanka",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Koramangala",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Indonesia":{
+    "nombre": "Indonesia",
+    "plato_tipico": ["Nasi goreng", "Sate", "Gado-gado", "Rendang"],
+    "moneda": "Rupia indonesia",
+    "bandera": "../img/Indonesia.png",
+    "provincias": {
+      "Yakarta": {
+        "nombre": "Yakarta",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Yakarta",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Surabaya",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Bandung",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Surabaya": {
+        "nombre": "Surabaya",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Surabaya",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Malang",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Sidoarjo",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Bandung": {
+        "nombre": "Bandung",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Bandung",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Cimahi",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Tasikmalaya",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Japon":{
+    "nombre": "Japon",
+    "plato_tipico": ["Sushi", "Ramen", "Tempura", "Sashimi"],
+    "moneda": "Yen japonés",
+    "bandera": "../img/Japon.webp",
+    "provincias": {
+      "Tokio": {
+        "nombre": "Tokio",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Tokio",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Chiyoda",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Shinjuku",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Osaka": {
+        "nombre": "Osaka",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Osaka",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Kita",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Chuo",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Nagoya": {
+        "nombre": "Nagoya",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Nagoya",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Naka",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Higashi",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Rusia":{
+    "nombre": "Rusia",
+    "plato_tipico": ["Pelmeni", "Borsch", "Blini", "Pirozhki"],
+    "moneda": "Rublo ruso",
+    "bandera": "../img/Rusia.webp",
+    "provincias": {
+      "Moscú": {
+        "nombre": "Moscú",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Moscú",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Zamoskvorechye",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Tagansky",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "San Petersburgo": {
+        "nombre": "San Petersburgo",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "San Petersburgo",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Krasnogvardeysky",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Kalininsky",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Novosibirsk": {
+        "nombre": "Novosibirsk",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Novosibirsk",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Leninsky",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Kalininsky",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Singapur":{
+    "nombre": "Singapur",
+    "plato_tipico": ["Hainanese chicken rice", "Laksa", "Chilli crab", "Char kway teow"],
+    "moneda": "Dólar de Singapur",
+    "bandera": "../img/Singapur.png",
+    "provincias": {
+      "Singapur": {
+        "nombre": "Singapur",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Singapur",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Bedok",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Jurong East",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Woodlands": {
+        "nombre": "Woodlands",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Woodlands",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Marsiling",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Sembawang",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Tampines": {
+        "nombre": "Tampines",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Tampines",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Pasir Ris",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Changi",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Tailandia":{
+    "nombre": "Tailandia",
+    "plato_tipico": ["Pad thai", "Tom yam kung", "Som tam", "Massaman curry"],
+    "moneda": "Baht tailandés",
+    "bandera": "../img/Tailandia.png",
+    "provincias": {
+      "Bangkok": {
+        "nombre": "Bangkok",
+        "numCiudades": 16,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Bangkok",
+              "CodigoPostal": "100000"
+            },
+            {
+              "nombre": "Khlong Toei",
+              "CodigoPostal": "100235"
+            },
+            {
+              "nombre": "Watthana",
+              "CodigoPostal": "100080"
+            }
+          ]
+        }
+      },
+      "Nonthaburi": {
+        "nombre": "Nonthaburi",
+        "numCiudades": 13,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Nonthaburi",
+              "CodigoPostal": "200001"
+            },
+            {
+              "nombre": "Pak Kret",
+              "CodigoPostal": "200030"
+            },
+            {
+              "nombre": "Bang Kruai",
+              "CodigoPostal": "200051"
+            }
+          ]
+        }
+      },
+      "Nakhon Ratchasima": {
+        "nombre": "Nakhon Ratchasima",
+        "numCiudades": 10,
+        "ciudades": {
+          "ciudad": [
+            {
+              "nombre": "Nakhon Ratchasima",
+              "CodigoPostal": "430014"
+            },
+            {
+              "nombre": "Mueang Nakhon Ratchasima",
+              "CodigoPostal": "430021"
+            },
+            {
+              "nombre": "Pak Chong",
+              "CodigoPostal": "430032"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
